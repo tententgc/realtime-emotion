@@ -16,6 +16,7 @@ Realtime Emotion Detection is a project aimed at recognizing and identifying emo
   - [Usage](#usage)
   - [Contributing](#contributing)
   - [License](#license)
+  - [Examples](#examples)
 
 ## Features
 
@@ -73,3 +74,17 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 Please adjust this according to the actual details of your project. Make sure you clearly explain what your project does, how to install and use it, and any other details a user or contributor might need to know.
+
+## Examples
+Here's an example of how Realtime Emotion Detection works:
+
+### Video Example
+[![Realtime Emotion Detection Example Video](http://img.youtube.com/vi/ksNgASS62L8/0.jpg)](http://www.youtube.com/watch?v=ksNgASS62L8 "Click to watch the video on YouTube!")
+
+### Image Example
+
+![Happy](Example-image/Happy.png)
+![Sad](Example-image/sad.png)
+
+
+
