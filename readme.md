@@ -79,7 +79,11 @@ Please adjust this according to the actual details of your project. Make sure yo
 Here's an example of how Realtime Emotion Detection works:
 
 ### Video Example
-[![Realtime Emotion Detection Example Video](http://img.youtube.com/vi/ksNgASS62L8/0.jpg)](http://www.youtube.com/watch?v=ksNgASS62L8 "Click to watch the video on YouTube!")
+
+https://github.com/tententgc/realtime-emotion/assets/47788025/f3567dca-68a4-4ec8-9ab0-d60822a30726
+
+
+
 
 ### Image Example
 
